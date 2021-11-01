@@ -1,5 +1,5 @@
 {
-  "option_gameguid": "7fdfe964-9f34-4f61-9932-8d9e9a5d3645",
+  "option_gameguid": "d0db5233-d53a-4318-b581-21945d91f913",
   "option_gameid": "0",
   "option_game_speed": 60,
   "option_mips_for_3d_textures": false,
@@ -10,6 +10,9 @@
   "option_author": "",
   "option_lastchanged": "",
   "option_spine_licence": false,
+  "option_template_image": "${base_options_dir}/main/template_image.png",
+  "option_template_icon": "${base_options_dir}/main/template_icon.png",
+  "option_template_description": null,
   "resourceVersion": "1.2",
   "name": "Main",
   "tags": [],
